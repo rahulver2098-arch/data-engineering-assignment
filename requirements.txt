@@ -1,0 +1,4 @@
+Jupyter Notebook
+Pandas
+SQLlite
+Power BI
